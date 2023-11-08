@@ -1,6 +1,5 @@
 import sqlite3
 import csv
-import sre_parse
 import sys
 
 
